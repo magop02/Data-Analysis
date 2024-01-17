@@ -1,0 +1,19 @@
+ID,Nombre de la columna,Descripción
+1,Número de Semana,La semana se contabiliza de viernes a jueves
+2,Número de Incendio Forestal,Número consecutivo de incendio
+3,Coordenadas Geográficas,Sitio del incendio georreferenciado.
+4,Clave de Municipio,Clave del municipio según el Marco geoestadístico nacional INEGI
+5,Municipio,Municipio donde ocurrió el incendio
+6,Predio / Paraje,Predio/paraje donde ocurrió el incendio
+7,Causa,Posible causa que dio origen al incendio
+8,Causa específica,Posible causa específica que dio origen al incendio
+9,Fecha de Inicio,Fecha que dio inicio el incendio
+10,Fecha de Término,Fecha que se sofocó el incendio
+11,Categoría de Incendio por Duración (Días),1 Día; 2 a 3 Días;  4 a 7 Días;  Mayor de 7 Días
+12,Tipo de Incendio,"De acuerdo al estrato quemado, se clasifica en Superficial, Subterráneo, de Copa o Mixto"
+13,Tipo de Vegetación,Vegetación afectada según la clasificación de la carta de Uso de Suelo y Vegetación de INEGI
+14,Régimen de fuego,"Adaptación de los tipos de ecosistemas al fuego: corresponde a Sensible, Adaptado u Otros"
+15,Clasificación de  Primer Orden,"Impacto mínimo, Impacto moderado o Impacto severo."
+16,Superficie Quemada (hectáreas),Corresponde a la superficie afectada por el fuego medida en hectáreas.
+17,Clasificación   por Superficie Afectada,0 a 5 Hectáreas; 11 a 20 Hectáreas; 21 a 50 Hectáreas; 51 a 100 Hectáreas; 6 a 10 Hectáreas y Mayor a 100 Hectáreas
+18,Indicadores de Eficiencia,"Tiempo de detección, Tiempo de llegada y Duración del incendio"
